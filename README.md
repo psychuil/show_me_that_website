@@ -1,10 +1,10 @@
 # Show me that website
 
-This tool allows you to capture a screenshot of a webpage, with the option of uploading it to an s3 bucket
+This tool allows you to capture a screenshot of a webpage, with the option of uploading it to an s3 bucket.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine.
 
 ### Prerequisites
 
@@ -12,7 +12,7 @@ You're not gonna need much, just python 3.6+ installed.
 
 ### Installing
 
-Download the files enclosed and installed the required modules
+Download the files enclosed and installed the required modules:
 
 ```
 pip install -r Requirements.txt
