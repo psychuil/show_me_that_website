@@ -39,7 +39,7 @@ python show_me_that_website -h
 
 ## Built With
 
-* [Selenium](https://www.seleniumhq.org/)
+* [Selenium](https://www.seleniumhq.org/) - Browser automation driver
 * [Boto3](https://github.com/boto/boto3) - AWS SDK for Python
 
 ## Authors
