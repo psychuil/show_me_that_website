@@ -17,6 +17,7 @@ Download the files enclosed and installed the required modules:
 ```
 pip install -r Requirements.txt
 ```
+If you'd like to use the s3 functionality you'd need to set up your credentails for AWS as explained in [this page](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html).
 
 ## Using the tool
 
